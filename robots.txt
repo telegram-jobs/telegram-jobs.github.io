@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Crawl-delay: 2
+Clean-param: ref /articles/
+Sitemap: https://telegram.jobs/sitemap.xml
+Host: https://telegram.jobs
